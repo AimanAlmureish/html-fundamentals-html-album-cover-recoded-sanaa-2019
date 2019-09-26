@@ -32,6 +32,10 @@ h1 {
   margin-bottom: 2px;
 }
 
+.big{
+  font-size: 12.25em;
+}
+
 h2 {
   font-size: 5.1em;
   line-height: 1em;
